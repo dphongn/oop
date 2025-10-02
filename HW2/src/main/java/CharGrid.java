@@ -91,4 +91,8 @@ public class CharGrid {
         return -1;
     }
 
+    static void main(String[] args) {
+
+    }
+
 }

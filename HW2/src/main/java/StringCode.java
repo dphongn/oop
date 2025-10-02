@@ -81,6 +81,10 @@ public class StringCode {
         return false;
     }
 
+    static void main(String[] args) {
+
+    }
+
 
 
 }
